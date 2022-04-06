@@ -10,7 +10,7 @@ param location string = 'eastus'
 param serverName string = 'myServerProd'
 
 @description('The name of the SQL Database.')
-param sqlDBName string = 'myDatabaseProd'
+param sqlDBName string = 'myDatabaseProd01'
 
 
 @description('The administrator username of the SQL logical server.')
