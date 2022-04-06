@@ -7,7 +7,7 @@ param location string = 'eastus'
 
 //Create a DB Parameter 
 @description('The name of the SQL logical server.')
-param serverName string = 'myServerProd'
+param serverName string = 'myServerProd01'
 
 @description('The name of the SQL Database.')
 param sqlDBName string = 'myDatabaseProd01'
